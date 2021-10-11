@@ -10,4 +10,9 @@ There will also be a Radar page added to the site which is a news feature focusi
 
 I hope you enjoy the website and please sign up to our monthly newsletter for news, information, reviews and competitions.
 
-## Installation
+
+INSERT IMAGE MOCKUP HERE
+
+# FEATURES
+
+
